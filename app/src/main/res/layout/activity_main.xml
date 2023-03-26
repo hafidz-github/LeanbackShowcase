@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
+hafidz
      Copyright (C) 2015 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -14,6 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
+
 <RelativeLayout
     android:id="@+id/fragmentContainer"
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -22,4 +24,5 @@
     android:layout_height="match_parent"
     tools:deviceIds="tv"
     tools:ignore="MergeRootFrame">
+
 </RelativeLayout>
